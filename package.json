@@ -1,0 +1,20 @@
+{
+  "name": "codec",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/template-editor-tbd/codec.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/template-editor-tbd/codec/issues"
+  },
+  "homepage": "https://github.com/template-editor-tbd/codec#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
